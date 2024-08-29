@@ -7,7 +7,7 @@ This is template to run [Linea L2 node](https://docs.linea.build/) on [Akash Net
 ## Deploy Ubuntu
 
 - Deploy Ubuntu on Akash using deploy.yaml file from this repo.
-- Create an SSH connection with URI and forwarded port 22 from leases tab in Akash Console.
+- Create an SSH connection with URI (only domain name) and forwarded port 22 from leases tab in Akash Console.
 
 ## Download Geth and Run a Linea node
 
